@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mvonweimar
 - 👀 I’m interested in free-software culture
-- 🌱 I’m currently re-learning the basics.
+- 🌱 I’m currently re-learning the basics at @platzi
 - 💞️ I’m looking to collaborate on sustainability
 - 📫 How to reach me: mahurtadoz @ unal.edu.co
 
